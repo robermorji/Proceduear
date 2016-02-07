@@ -402,8 +402,8 @@ body {
 
 #roberto {
 	border-radius: 100%;
-	width: 100%;
-	height: auto;
+	width: 460px;
+	height: 460px;
 }
 
 .team{
@@ -419,4 +419,8 @@ body {
 	padding-right:10px;
 	width:20%;
 	display:inline-block;
+}
+
+.title_proceduear{
+	margin-left:0px;
 }

@@ -73,7 +73,7 @@
         <div class="intro-body">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-8 col-md-offset-2">
+                    <div class="col-md-8 col-md-offset-2 title_proceduear">
                         <h1 class="brand-heading">Proceduear</h1>
                         <p class="intro-text">Sistema de aprendizaje musical<br></p>
                         <a href="#about" class="btn btn-circle page-scroll">
@@ -182,7 +182,7 @@
 				<p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor </p>
 			   </div>
 			   <div class="user">
-				<img src="img/roberto.png" id="roberto" />
+				<img src="img/roberto.jpeg" id="roberto" />
 				<h2>La mejor aplicación </h2>
 				<p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor </p>
 			   </div>
