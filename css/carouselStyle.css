@@ -1,0 +1,12 @@
+.carousel-inner>.item>img {
+	height: 345px !important;
+    margin: 0 auto;
+}
+
+.carousel-inner {
+	height: 345px !important;
+}
+
+.carouselPosition {
+	padding-right: 40% !important;
+}
